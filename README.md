@@ -28,8 +28,11 @@ LMB Start / Ending screen transition
 
 ## **Libraries**
 ・XYScope 3.0.0
+<br>
 ・Minim 2.2.2
+<br>
 ・Geomerative
+<br>
 
 実際にはArduino Nanoを用いたUSBコントローラを使用して操作していたため、ライブラリとして「Serial」が必要ですが、今回のデモ版はキーボードで簡易的に操作できるようにしているので必要ありません（コード上でもコメントアウトされています）
 
