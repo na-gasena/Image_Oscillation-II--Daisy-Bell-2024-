@@ -48,3 +48,8 @@ Programming : [Nagasena](https://twitter.com/due9102)
 <br>
 Hardware : [inkinunchikun](https://www.instagram.com/rin.rin369?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 
+
+# Original Version
+![image](https://github.com/na-gasena/Image_Oscillation-II--Daisy-Bell-2024-/assets/102959583/2dfcf422-87d5-40f9-b4d2-b27202fe49cc)
+
+
