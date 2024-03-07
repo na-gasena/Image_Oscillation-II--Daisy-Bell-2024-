@@ -1,5 +1,7 @@
 This Code is from my interactive Oscilloscope work created for a FabCafeNagoya's Event
+<br>
 (a simplified version)
+<br>
 FabCafeNagoyaで行われた展示で出展したオシロスコープ作品のソフトウェア簡易版になります。
 
 
@@ -40,5 +42,6 @@ LMB Start / Ending screen transition
 
 # **Credit**
 Programming : Nagasena
+<br>
 Hardware : inkinunchikun
 
