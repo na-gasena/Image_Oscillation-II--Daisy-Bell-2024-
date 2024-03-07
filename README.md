@@ -25,7 +25,8 @@ LMB Start / Ending screen transition
 # **Required**
 ・Processing 4.3
 
-**Libraries**
+
+## **Libraries**
 ・XYScope 3.0.0
 ・Minim 2.2.2
 ・Geomerative
