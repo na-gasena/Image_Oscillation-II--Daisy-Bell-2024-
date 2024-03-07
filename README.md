@@ -50,6 +50,8 @@ Hardware : [inkinunchikun](https://www.instagram.com/rin.rin369?utm_source=ig_we
 
 
 # Original Version
-![image](https://github.com/na-gasena/Image_Oscillation-II--Daisy-Bell-2024-/assets/102959583/2dfcf422-87d5-40f9-b4d2-b27202fe49cc)
 
+![osilloPlay_2](https://github.com/na-gasena/Image_Oscillation-II--Daisy-Bell-2024-/assets/102959583/745ccf82-ea0f-452b-801b-9663e362294f)
 
+<br>
+Tools : Tektronix2225 (Analog Oscilloscope),<br> Raspberry Pi 4 8GB (for StandAlone),<br> Arduino Nano (Controller) ,<br> Minifuse2 (I/O)
