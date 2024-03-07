@@ -4,7 +4,7 @@ FabCafeNagoyaで行われた展示で出展したオシロスコープ作品の�
 
 
 
-**How to Play**
+# **How to Play**
 Run Image_Oscillation.pde on Processing 4
 Processing上でImage_Oscillation.pdeを実行してください。
 
@@ -22,7 +22,7 @@ LMB Start / Ending screen transition
 
 
 
-**Required**
+# **Required**
 ・Processing 4.3
 
 **Libraries**
@@ -34,7 +34,7 @@ LMB Start / Ending screen transition
 
 
 
-**Credit**
+# **Credit**
 Programming : Nagasena
 Hardware : inkinunchikun
 
