@@ -4,7 +4,7 @@ This Code is from my interactive Oscilloscope work created for a [FabCafeNagoya'
 <br>
 [FabCafeNagoyaで行われた展示](https://www.instagram.com/p/C3R3qTwPpvE/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)で出展したオシロスコープ作品のソフトウェア簡易版になります。
 
-![image](https://github.com/na-gasena/Image_Oscillation-II--Daisy-Bell-2024-/assets/102959583/fdd612d1-8294-4dbe-8567-ae87aeeb788d)
+![screenshot image of Image Oscillation II](https://github.com/na-gasena/Image_Oscillation-II--Daisy-Bell-2024-/assets/102959583/fdd612d1-8294-4dbe-8567-ae87aeeb788d)
 
 
 
