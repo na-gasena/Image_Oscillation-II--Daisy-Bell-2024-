@@ -1,8 +1,8 @@
-This Code is from my interactive Oscilloscope work created for a FabCafeNagoya's Event
+This Code is from my interactive Oscilloscope work created for a [FabCafeNagoya's Event](https://www.instagram.com/p/C3R3qTwPpvE/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 <br>
 (a simplified version)
 <br>
-FabCafeNagoyaで行われた展示で出展したオシロスコープ作品のソフトウェア簡易版になります。
+[FabCafeNagoyaで行われた展示](https://www.instagram.com/p/C3R3qTwPpvE/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)で出展したオシロスコープ作品のソフトウェア簡易版になります。
 
 
 
@@ -42,7 +42,7 @@ LMB Start / Ending screen transition
 
 
 # **Credit**
-Programming : Nagasena
+Programming : [Nagasena](https://twitter.com/due9102)
 <br>
-Hardware : inkinunchikun
+Hardware : [inkinunchikun](https://www.instagram.com/rin.rin369?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 
