@@ -9,7 +9,7 @@ This Code is from my interactive Oscilloscope work created for a [FabCafeNagoya'
 # **How to Play**
 Run Image_Oscillation.pde on Processing 4
 <br>
-Processing上でImage_Oscillation.pdeを実行してください。
+Processing上で**Image_Oscillation.pde**を実行してください。
 
 ← / → Move character
 
