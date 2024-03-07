@@ -2,7 +2,7 @@ This Code is from my interactive Oscilloscope work created for a FabCafeNagoya's
 (a simplified version)
 FabCafeNagoyaで行われた展示で出展したオシロスコープ作品のソフトウェア簡易版になります。
 
-#How to Play
+**How to Play**
 Run Image_Oscillation.pde on Processing 4
 Processing上でImage_Oscillation.pdeを実行してください。
 
@@ -13,16 +13,17 @@ LMB Start / Ending screen transition
 左マウスクリック　スタート画面、エンディング画面　遷移
 
 
-##Required
+**Required**
 ・Processing 4.3
-###Libraries
+
+**Libraries**
 ・XYScope 3.0.0
 ・Minim 2.2.2
 ・Geomerative
 
 実際にはArduino Nanoを用いたUSBコントローラを使用して操作していたため、ライブラリとして「Serial」が必要ですが、今回のデモ版はキーボードで簡易的に操作できるようにしているので必要ありません（コード上でもコメントアウトされています）
 
-##Credit
+**Credit**
 Programming : Nagasena
 Hardware : inkinunchikun
 
