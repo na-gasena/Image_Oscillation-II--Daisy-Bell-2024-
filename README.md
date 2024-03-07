@@ -17,7 +17,7 @@ Processing上で　＜**Image_Oscillation.pde**＞　を実行してください
 
 LMB Start / Ending screen transition
 
-キーボード十字キー　← / →　キャラクターの左右移動
+← / →　キャラクターの左右移動
 
 ↑ / ↓　周波数の変更（ピッチ変化）
 
